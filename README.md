@@ -25,3 +25,13 @@ This project demonstrates linear regression modelling and diagnostic analysis us
    - Fit a linear regression model
    - Produce diagnostic plots
    - Display regression summary results
+
+## Key Statistical Concepts Demonstrated
+
+This project demonstrates several core statistical modeling and diagnostic techniques:
+
+- Linear regression modelling
+- Residual diagnostics and model assumption checks
+- Influence analysis and leverage points
+- Interpretation of regression coefficients
+- Practical statistical reasoning using R
