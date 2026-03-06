@@ -26,6 +26,17 @@ This project demonstrates linear regression modelling and diagnostic analysis us
    - Produce diagnostic plots
    - Display regression summary results
 
+## Example Diagnostic Plots
+
+The script produces several diagnostic plots including:
+
+- Residual vs fitted values
+- Q-Q plot for normality
+- Scale-location plot
+- Cook's distance for influence detection
+
+These plots help evaluate whether the regression model assumptions hold.
+
 ## Key Statistical Concepts Demonstrated
 
 This project demonstrates several core statistical modeling and diagnostic techniques:
